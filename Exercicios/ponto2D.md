@@ -18,10 +18,9 @@ Utilize o código a seguir para testar o seu programa.
 
 ```python
 #Saída esperada:
-
-    `Ponto2D`(0.0, 0.0)
+    Ponto2D(0.0, 0.0)
     (7.0, 3.0)
-    `Ponto2D`(8.0, -8.0)
+    Ponto2D(8.0, -8.0)
     -8.0
     True
     False
